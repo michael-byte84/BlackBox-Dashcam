@@ -19,6 +19,8 @@ Android: 10.0 (API 29) o superiore
 
 Permessi richiesti: Fotocamera, Microfono, Posizione (GPS e Rete)
 
+-------------------------------------
+
 🇬🇧 Blackbox — Dashcam & Telemetry Recorder for Android
 Blackbox is a native Android application built with Kotlin that transforms your smartphone into a full-featured vehicle dashcam and blackbox telemetry logger. It seamlessly records video while generating a synchronized .srt subtitle file containing real-time telemetry data and frame-accurate timecode, tailored for driving analytics, security, and insurance purposes.
 
